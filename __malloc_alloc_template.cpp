@@ -1,12 +1,7 @@
 /*************************************************************************
-	> File Name: test.cpp
+	> File Name: __malloc_alloc_template.cpp
 	> Author:lotuswhl 
 	> Mail:410771408@qq.com 
-	> Created Time: 2017年03月31日 星期五 11时44分36秒
+	> Created Time: 2017年03月31日 星期五 15时38分02秒
  ************************************************************************/
-
-#include<iostream>
-using namespace std;
-
-int(){
-}
+ #include "__malloc_alloc_template.h"
